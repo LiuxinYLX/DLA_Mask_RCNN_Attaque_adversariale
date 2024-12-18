@@ -17,11 +17,12 @@
 
 ## Attaques adversariales
 1. Bruit aléatoire
-   Cette perturbation est implémenter dans le fichier **attaque_adversariale_bruit.py**.
-   L'exécution du fichier est tout simplement :
+   
+   Cette perturbation est implémenter dans le fichier **attaque_adversariale_bruit.py**, et tout le procéssus est automatique en exécutant :
    ```bash
    python3 attaque_adversariale_bruit.py
    ```
-3. L'attaque FGSM
+2. L'attaque FGSM
+3. 
    Cette perturbation est implémenter dans le fichier.
    
