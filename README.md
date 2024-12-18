@@ -26,3 +26,4 @@
 
    Cette perturbation est implémentée dans le notebook **mrcnn_resnet50_fgsm.ipynb**.
    
+Vous trouvez les résultats avant et après l'ajout du bruit aléatoire respectivement dans les répertoires **detection_avant** et **detection_apres_0.01**.
